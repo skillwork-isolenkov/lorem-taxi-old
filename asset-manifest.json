@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lorem-taxi/static/css/main.cf5b6a55.chunk.css",
+    "main.js": "/lorem-taxi/static/js/main.a76b22a0.chunk.js",
+    "main.js.map": "/lorem-taxi/static/js/main.a76b22a0.chunk.js.map",
+    "runtime-main.js": "/lorem-taxi/static/js/runtime-main.4fb26905.js",
+    "runtime-main.js.map": "/lorem-taxi/static/js/runtime-main.4fb26905.js.map",
+    "static/js/2.86dbabf7.chunk.js": "/lorem-taxi/static/js/2.86dbabf7.chunk.js",
+    "static/js/2.86dbabf7.chunk.js.map": "/lorem-taxi/static/js/2.86dbabf7.chunk.js.map",
+    "index.html": "/lorem-taxi/index.html",
+    "static/css/main.cf5b6a55.chunk.css.map": "/lorem-taxi/static/css/main.cf5b6a55.chunk.css.map",
+    "static/js/2.86dbabf7.chunk.js.LICENSE.txt": "/lorem-taxi/static/js/2.86dbabf7.chunk.js.LICENSE.txt",
+    "static/media/about-img.2c1f30cd.png": "/lorem-taxi/static/media/about-img.2c1f30cd.png",
+    "static/media/client-1.57892ab5.png": "/lorem-taxi/static/media/client-1.57892ab5.png",
+    "static/media/client-2.64a72078.png": "/lorem-taxi/static/media/client-2.64a72078.png",
+    "static/media/index.css": "/lorem-taxi/static/media/taxi-bg.f2347e84.jpg",
+    "static/media/mobile.f5489bc8.png": "/lorem-taxi/static/media/mobile.f5489bc8.png",
+    "static/media/news-img.979f44bc.jpg": "/lorem-taxi/static/media/news-img.979f44bc.jpg",
+    "static/media/slider-img.afc596dc.png": "/lorem-taxi/static/media/slider-img.afc596dc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fb26905.js",
+    "static/js/2.86dbabf7.chunk.js",
+    "static/css/main.cf5b6a55.chunk.css",
+    "static/js/main.a76b22a0.chunk.js"
+  ]
+}
