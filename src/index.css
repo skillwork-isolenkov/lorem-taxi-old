@@ -1014,5 +1014,47 @@ code {
 
 /* Landscape */
 @media only screen and (max-width: 900px) and (orientation: landscape){
-  
+  /* Navigation */
+  .navigation{
+    height: 15vh;
+  }
+  /* Home */
+  .get-taxi{
+    position: relative;
+    margin-left: 65px;
+  }
+
+  /* News */
+  .news{
+    height: 250vh;
+  }
+
+  .news-box img{
+    height: 130px;
+  }
+
+  .details-news{
+    width: 173px;
+    font-size: 11px;
+  }
+
+  /* Client */
+  .client{
+    height: 120vh;
+  }
+
+  /* Contact */
+  .contact{
+    height: 150vh;
+  }
+
+  /* Footer */
+  .footer{
+    height: 150vh;
+  }
+
+  /* MyProjects */
+  .my-projects{
+    height: 15vh;
+  }
 }
