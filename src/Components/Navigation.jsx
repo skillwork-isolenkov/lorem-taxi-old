@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faBars } from '@fortawesome/free-solid-svg-icons'
+import { faBars, faTimes } from '@fortawesome/free-solid-svg-icons'
 
 const Navigation = () => {
     let timesClicked = 0;
@@ -11,16 +11,29 @@ const Navigation = () => {
 
         if (timesClicked % 2 === 0) {
             document.querySelector('.navigation ul').style.display = "none";
-            document.querySelector('.navigation').style.height = "8vh";
+            document.querySelector('#burger-menu').style.display = "flex";
+            document.querySelector('#exit-menu').style.display = "none";
+
+            document.querySelector('.routing').style.filter = "blur(0px)";
+            document.querySelector('.footer').style.filter = "blur(0px)";
+            document.querySelector('.my-projects').style.filter = "blur(0px)";
+            document.querySelector('.navigation h3').style.filter = "blur(0px)";
         } else {
             document.querySelector('.navigation ul').style.display = "flex";
-            document.querySelector('.navigation').style.height = "40vh";
+            document.querySelector('#burger-menu').style.display = "none";
+            document.querySelector('#exit-menu').style.display = "flex";
+
+            document.querySelector('.routing').style.filter = "blur(2px)";
+            document.querySelector('.footer').style.filter = "blur(2px)";
+            document.querySelector('.my-projects').style.filter = "blur(2px)";
+            document.querySelector('.navigation h3').style.filter = "blur(2px)";
         }
     }
     return (
         <div className="navigation">
             <h3><Link to="/">LoremTaxi</Link></h3>
             <a href="true" onClick={burgerButton} id="burger-menu"><FontAwesomeIcon icon={faBars} /></a>
+            <a href="true" onClick={burgerButton} id="exit-menu"><FontAwesomeIcon icon={faTimes} /></a>
             <ul>
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/about">About</Link></li>
