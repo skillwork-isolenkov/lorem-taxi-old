@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lorem-taxi/static/css/main.6ad7f6ac.chunk.css",
-    "main.js": "/lorem-taxi/static/js/main.a76b22a0.chunk.js",
-    "main.js.map": "/lorem-taxi/static/js/main.a76b22a0.chunk.js.map",
+    "main.css": "/lorem-taxi/static/css/main.9b236197.chunk.css",
+    "main.js": "/lorem-taxi/static/js/main.ed3a8412.chunk.js",
+    "main.js.map": "/lorem-taxi/static/js/main.ed3a8412.chunk.js.map",
     "runtime-main.js": "/lorem-taxi/static/js/runtime-main.4fb26905.js",
     "runtime-main.js.map": "/lorem-taxi/static/js/runtime-main.4fb26905.js.map",
-    "static/js/2.86dbabf7.chunk.js": "/lorem-taxi/static/js/2.86dbabf7.chunk.js",
-    "static/js/2.86dbabf7.chunk.js.map": "/lorem-taxi/static/js/2.86dbabf7.chunk.js.map",
+    "static/js/2.d5f72332.chunk.js": "/lorem-taxi/static/js/2.d5f72332.chunk.js",
+    "static/js/2.d5f72332.chunk.js.map": "/lorem-taxi/static/js/2.d5f72332.chunk.js.map",
     "index.html": "/lorem-taxi/index.html",
-    "static/css/main.6ad7f6ac.chunk.css.map": "/lorem-taxi/static/css/main.6ad7f6ac.chunk.css.map",
-    "static/js/2.86dbabf7.chunk.js.LICENSE.txt": "/lorem-taxi/static/js/2.86dbabf7.chunk.js.LICENSE.txt",
+    "static/css/main.9b236197.chunk.css.map": "/lorem-taxi/static/css/main.9b236197.chunk.css.map",
+    "static/js/2.d5f72332.chunk.js.LICENSE.txt": "/lorem-taxi/static/js/2.d5f72332.chunk.js.LICENSE.txt",
     "static/media/about-img.2c1f30cd.png": "/lorem-taxi/static/media/about-img.2c1f30cd.png",
     "static/media/client-1.57892ab5.png": "/lorem-taxi/static/media/client-1.57892ab5.png",
     "static/media/client-2.64a72078.png": "/lorem-taxi/static/media/client-2.64a72078.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4fb26905.js",
-    "static/js/2.86dbabf7.chunk.js",
-    "static/css/main.6ad7f6ac.chunk.css",
-    "static/js/main.a76b22a0.chunk.js"
+    "static/js/2.d5f72332.chunk.js",
+    "static/css/main.9b236197.chunk.css",
+    "static/js/main.ed3a8412.chunk.js"
   ]
 }
